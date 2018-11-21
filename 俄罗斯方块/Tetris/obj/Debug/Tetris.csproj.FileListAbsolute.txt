@@ -1,0 +1,38 @@
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.FrmConfig.resources
+d:\我的文档\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.FrmTetris.resources
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.pdb
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.FrmConfig.resources
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.FrmTetris.resources
+E:\课程资料\2009-2010第二学期\c#\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+E:\2014-2015第二学期\2014-2015第二学期\2014-2015第二学期\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\2014-2015第二学期\2014-2015第二学期\2014-2015第二学期\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\c#高级程序设计\参考资料\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\c#高级程序设计\参考资料\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.FrmConfig.resources
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.FrmTetris.resources
+D:\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.FrmConfig.resources
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.FrmTetris.resources
+F:\d备份\c#高级程序设计\参考资料\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
